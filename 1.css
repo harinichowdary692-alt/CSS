@@ -1,0 +1,47 @@
+#one{
+    height: 360px;
+    width: 340px;
+    border: solid 1px;
+    background-color: #0B2E4F;
+    border-radius: 6px;
+}
+
+#two{
+    height: 160px;
+    width: 110px;
+    margin-left: 115px;
+    margin-top: 20px;
+    background-color: #D9A441;
+    border-radius: 6px;
+}
+
+#three{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+#four{
+    color: #A9BDD1;
+    text-align: center;
+    margin-top: 3%;
+}
+
+#five{
+    text-align: center;
+}
+
+#six{
+    text-align: center;
+    margin-top: 16px;
+}
+
+button{
+    border-radius: 20px;
+    padding: 6px;
+    color:#0B2E4F;
+    font-size: medium;
+    font-weight: bold;
+    background-color: #D9A441;
+}
