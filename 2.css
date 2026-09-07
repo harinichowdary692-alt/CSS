@@ -1,0 +1,45 @@
+#one{
+   background-color: #DCEEF5;
+}
+
+#two{
+    height: 280px;
+    width: 280px;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: solid 1px #9FCBDA;
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+}
+
+#three{
+    margin-top: 30px;
+    color: #2C6E8C;
+}
+
+#four{
+    font-size: 260%;
+    font-weight: bold;
+    color: #1B3A4B;
+    padding-left: 5px;
+    margin-top: 60px;
+    margin-bottom: 20%;
+    font-family: Tahoma, sans-serif;
+}
+
+#five{
+    font-family: Tahoma, sans-serif;
+    font-size: 110%;
+    color:#557687;
+    margin-bottom: 0;
+}
+
+#six{
+    margin-top: 8px;
+    font-size: 80%;
+    margin-left: 15px;
+    font-family: Tahoma, sans-serif;
+    color: #9AAAB2;
+}
