@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+}
+
+#one{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 1px solid rgb(207, 190, 190);
+    display: inline-block;
+}
+
+#two{
+    position: relative;
+    top: 27%;
+    font-size: x-large;
+}
+
+#three{
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background-color: red;
+    font-size: small;
+    font-weight: bold;
+    position: absolute;
+    display: inline-block;
+    top: 2%;
+    left: 45%;
+}
+
+#four{
+    position: absolute;
+    left: 55%;
+    top: 4%;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 6px;
+    width: 6.5rem;
+    height: 3.5%;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+#four:active{
+    background-color: rgb(209, 208, 208);
+}
+
+#five{
+    position: relative;
+    top: 1.4em;
+    left: 10%;
+    font-size: small;
+    border: 1px solid black;
+    display: inline;
+    background-color: black;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}

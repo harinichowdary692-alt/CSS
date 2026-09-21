@@ -1,0 +1,12 @@
+#one{
+    float: right;
+    height: 200px;
+    width: 200px;
+}
+
+#two{
+    height: 200px;
+    width: 200px;
+    float: right;
+    clear: right;
+}

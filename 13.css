@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    border: solid 2px black;
+    height: 10vh;
+    width: 15vw;
+    margin: 10px;
+}
+
+.box1{
+    background-color: aquamarine;
+    position: absolute;
+    /*top: 0px;
+    right: 20px;*/
+}
+
+.box2{
+    background-color: palegreen;
+    /*position: relative;
+    left: 0px;*/
+}
+
+.box3{
+    background-color: palevioletred;
+}
+
+.box4{
+    background-color: peru;
+}
+
+/*#parent{
+    border: 2px solid black;
+    margin: 43px;
+    padding: 34px;
+    position: absolute;
+}*/

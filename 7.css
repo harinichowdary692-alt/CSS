@@ -1,0 +1,8 @@
+#one{
+    height: 300px;
+    width: 300px;
+    background-image: url(cloud.jpg);
+    background-size: cover;
+    position: fixed;
+    right: 0%;
+}

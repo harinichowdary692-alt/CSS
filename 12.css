@@ -1,0 +1,64 @@
+#one{
+    font-size: 120%;
+    transition: color 0.15s;
+    cursor: pointer;
+}
+
+#one:hover{
+    color: rgb(230, 155, 17)
+}
+
+#two{
+    font-weight: bold;
+    font-size: 180%;
+}
+
+
+#three{
+    font-size: 120%;
+    color: green;
+    font-weight: bold;
+}
+
+#four{
+    font-size: 120%;
+}
+
+#five{
+    height: 5vh;
+    width: 16vw;
+    background-color: rgb(255, 208, 0);
+    border: none;
+    border-radius: 40px;
+    font-weight: 540;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    margin-right: 10px;
+}
+
+#five:hover{
+    background-color: rgb(235, 193, 3);
+}
+
+#five:active{
+    background-color: rgba(235, 193, 3, 0.7);
+}
+
+#six{
+    height: 5vh;
+    width: 16vw;
+    background-color: rgb(255, 149, 0);
+    border: none;
+    border-radius: 40px;
+    font-weight: 540;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+#six:hover{
+    background-color: rgb(196, 115, 3);
+}
+
+#six:active{
+    background-color: rgba(196, 115, 3, 0.6);
+}

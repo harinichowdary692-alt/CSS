@@ -1,0 +1,163 @@
+#one{
+    background-color: rgb(200,0,0);
+    padding: 10px;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.15s;
+}
+
+#one:hover{
+    background-color: rgba(200,0,0,0.8);
+}
+
+#one:active{
+    background-color: rgba(200,0,0,0.5);
+}
+
+#two{
+    color: rgb(19, 138, 138);
+    background-color: white;
+    padding: 10px 15px 10px 15px;
+    margin-right: 10px;        
+    cursor: pointer;
+    border: solid 1px rgb(19, 138, 138);
+    transition: background-color 0.15s, color 0.15s;
+}
+
+#two:hover{
+    background-color: rgb(19, 138, 138);
+    color: white;
+}
+
+#two:active{
+    background-color: rgba(19, 138, 138,0.8);
+}
+
+#three{
+    color: white;
+    background-color: rgb(24, 117, 187);
+    border: solid 1px rgb(24, 117, 187);
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: box-shadow 0.15s;
+}
+
+#three:hover{
+    box-shadow: 6px 6px 10px rgba(0, 0, 0,0.2);
+}
+#four{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+#four:hover{
+    background-color: rgba(0, 0, 0,0.8);
+}
+
+#five{
+    font-weight: bold;
+    background-color: rgb(255, 187, 0);
+    border: none;
+    padding: 10px 45px 10px 45px;
+    border-radius: 22px;
+    font-size: medium;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+#five:hover{
+    background-color: rgb(228, 152, 0);
+}
+
+#six{
+    color: white;
+    background-color: rgb(46, 164, 79);
+    padding: 12px 15px 12px 15px;
+    border: none;
+    font-weight: bold;
+    font-size: medium;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: box-shadow 0.15s;
+}
+
+#six:hover{
+    box-shadow: 6px 6px 10px rgba(0, 0, 0,0.2);
+}
+
+#seven{
+    color: white;
+    background-color: rgb(121,82,179);
+    border: none;
+    padding: 10px 15px 10px 15px;
+    font-weight: bold;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.15s;
+}
+
+#seven:hover{
+    background-color: rgb(100, 44, 185);
+}
+
+#eight{
+    color: grey;
+    background-color: white;
+    border: solid 1px gray;
+    padding: 10px 15px 10px 15px;
+    font-weight: bold;
+    border-radius: 3px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+#eight:hover{
+    background-color: grey;
+    color: white;
+}
+
+#nine{
+    background-color: rgb(10,102,194);
+    color: white;
+    padding: 10px 25px 10px 25px;
+    border: solid 1px rgb(10,102,194);
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+#nine:hover{
+    background-color: rgb(7, 74, 142);
+}
+
+#ten{
+    color: rgb(10,102,194);
+    background-color: white;
+    padding: 8px 12px 8px 12px;
+    border: solid 1px rgb(10,102,194);
+    border-radius: 17px;
+    cursor: pointer;
+    transition: background-color 0.15s, border-width 0.10s;
+}
+
+#ten:hover{
+    background-color: rgba(10,102,194,0.1);
+    border-width: 2px;
+}
